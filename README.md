@@ -1,1 +1,1 @@
-My first readme
+Grit is King
